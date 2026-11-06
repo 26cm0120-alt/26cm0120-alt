@@ -34,7 +34,7 @@ GitHub ActionsによるDiscordメンバーの自動同期と、Cloudflare Worker
 | 学習中の中心分野 | Swift / SwiftUI（授業とチーム制作で学習中。SwiftUIの画面づくりを担当した経験があります） |
 | 作品で使用した経験がある | Unity / C#（ゲーム制作）、Node.js・JavaScript（Discord Bot）、HTML / CSS（ポータルサイト）、Firebase（Firestore） |
 | 制作・運用の中で触れた | Cloudflare Workers / D1 / R2、Docker、GitHub Actions（AIの支援を受けながら設定・運用した経験があります。仕組みは学習中です） |
-| ツール | Git / GitHub、Xcode（どちらも基本的な使い方を学習中です） |
+| ツール | Git / GitHub、Xcode VScode AndoroidStudio （どちらも基本的な使い方を学習中です） |
 | 今取り組んでいる課題 | コードの仕組みを自分の言葉で説明できるようにすること、エラーや不具合を自分で切り分けて直すこと |
 
 ## 現在取り組んでいること
